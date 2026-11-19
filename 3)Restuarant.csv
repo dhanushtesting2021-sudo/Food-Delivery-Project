@@ -1,0 +1,51 @@
+Restaurant_Id,Restaurant_Name,  Cuisine,City,Rating
+REST01,          A2B,           South Indian,Chennai,5
+REST02,Saravana Bhavan,South Indian,Coimbatore,4.2
+REST03,Sangeetha,South Indian,Salem,4.3
+REST04,Murugan Idli Shop,South Indian,Madurai,4.4
+REST05,Annapoorna,South Indian,Chennai,4
+REST06,Ponnusamy,Chettinad,Trichy,3.8
+REST07,Dindigul Thalappakatti,Biryani,Erode,3.9
+REST08,Buhari,Multi Cuisine,Chennai,4
+REST09,SS Hyderabad Biryani,Hyderabadi,Namakkal,4.9
+REST10,Ambur Star Briyani,Ambur Biryani,Salem,4.8
+REST11,Paradise Biryani,Hyderabadi,Coimbatore,4.7
+REST12,Biryani By Kilo,Biryani,Chennai,4.6
+REST13,Arsalan,Mughlai,Madurai,4.7
+REST14,Barbeque Nation,BBQ,Trichy,4.4
+REST15,Absolute Barbecues,BBQ,Erode,4.3
+REST16,Sigree,North Indian,Namakkal,4.1
+REST17,Punjab Grill,North Indian,Chennai,3.7
+REST18,Haldiram's,North Indian,Salem,5
+REST19,Bikanervala,North Indian,Coimbatore,4
+REST20,Moti Mahal,North Indian,Madurai,4
+REST21,Domino's Pizza,Italian,Trichy,5
+REST22,Pizza Hut,Italian,Chennai,4.6
+REST23,Toscano,Italian,Erode,4.5
+REST24,Little Italy,Italian,Namakkal,4.2
+REST25,Oven Story Pizza,Italian,Salem,3.8
+REST26,KFC,Fast Food,Coimbatore,3.9
+REST27,McDonald's,Fast Food,Madurai,4
+REST28,Burger King,Fast Food,Trichy,4.9
+REST29,Subway,Fast Food,Chennai,4.8
+REST30,Wendy's,American,Salem,4.7
+REST31,Taco Bell,Mexican,Erode,4.6
+REST32,Chili's,American,Namakkal,4.7
+REST33,Mainland China,Chinese,Coimbatore,4.4
+REST34,Wow! Momo,Tibetan / Asian,Chennai,4.3
+REST35,Hakka,Chinese,Madurai,4.1
+REST36,Mamagoto,Asian,Trichy,3.7
+REST37,Nasi and Mee,Malaysian / Asian,Salem,5
+REST38,Thai Naam,Thai,Coimbatore,4
+REST39,Benjarong,Thai,Namakkal,4
+REST40,The Sushi House,Japanese,Chennai,5
+REST41,Pa Pa Ya,Asian,Erode,4.6
+REST42,Starbucks,Coffee / Beverages,Namakkal,4.5
+REST43,Cafe Coffee Day,Coffee / Beverages,Coimbatore,4.2
+REST44,Theobroma,Bakery / Desserts,Chennai,5
+REST45,Krispy Kreme,Donuts,Madurai,4
+REST46,Cream Stone,Ice Cream,Trichy,4
+REST47,Naturals Ice Cream,Ice Cream,Salem,5
+REST48,Baskin Robbins,Ice Cream,Coimbatore,4.7
+REST49,Mainland China,Chinese,Namakkal,4.8
+REST50,The Belgian Waffle Co,Waffles / Desserts,Chennai,5

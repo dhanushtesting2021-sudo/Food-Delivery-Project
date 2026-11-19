@@ -1,0 +1,51 @@
+Customer_Id,Customer_Name,City,SignUp_Date
+CUST101,0,0,2026-03-01
+CUST102,Priya S,Coimbatore,2026-03-01
+CUST103,Dhanush S,Salem,2026-03-01
+CUST104,Divya M,Madurai,2026-03-02
+CUST105,Karthik P,Chennai,2026-03-02
+CUST106,Nithya K,Trichy,2026-03-02
+CUST107,Sanjay V,Erode,2026-03-03
+CUST108,Harini R,Chennai,2026-03-03
+CUST109,Gokul S,Namakkal,2026-03-03
+CUST110,Keerthana P,Salem,2026-03-04
+CUST111,Ajay Kumar,Coimbatore,2026-03-04
+CUST112,0,Chennai,2026-03-04
+CUST113,Dinesh R,Madurai,2026-03-05
+CUST114,Anitha S,Trichy,2026-03-05
+CUST115,Rahul P,Erode,2026-03-05
+CUST116,Meena K,Namakkal,2026-03-06
+CUST117,Vijay S,Chennai,2026-03-06
+CUST118,Lavanya R,Salem,2026-03-06
+CUST119,Manoj T,Coimbatore,2026-04-07
+CUST120,Pooja M,Madurai,2026-04-07
+CUST121,Manish,Trichy,2026-04-07
+CUST122,Hassena Sri,Chennai,2026-05-08
+CUST123,Preethi,Erode,2026-05-08
+CUST124,Ronaldo,Namakkal,2026-05-08
+CUST125,Kaur,Salem,2026-06-12
+CUST126,Sharma,Coimbatore,2026-06-12
+CUST127,Smirthi,Madurai,2026-06-12
+CUST128,Pandian,Trichy,2026-07-15
+CUST129,Kavya,Chennai,2026-07-15
+CUST130,Dharsan,Salem,2026-07-15
+CUST131,Virat,Erode,2026-07-16
+CUST132,Mani,Namakkal,2026-07-16
+CUST133,Muhil,Coimbatore,2026-07-16
+CUST134,Roshini,Chennai,2026-09-17
+CUST135,Raju,Madurai,2026-09-17
+CUST136,Raja,Trichy,2026-09-17
+CUST137,Rani,Salem,2026-10-19
+CUST138,Patel,Coimbatore,2026-10-19
+CUST139,Patheiv,Namakkal,2026-10-19
+CUST140,Kumar,Chennai,2026-10-20
+CUST141,Gugan,Erode,2026-10-21
+CUST142,Ram,Namakkal,2026-10-22
+CUST143,Moorthy,Coimbatore,2026-10-23
+CUST144,Sakthi,Chennai,2026-10-24
+CUST145,Vel,Madurai,2026-10-25
+CUST146,Vasu,Trichy,2026-10-26
+CUST147,Vani,Salem,2026-10-27
+CUST148,Nabi,Coimbatore,2026-10-28
+CUST149,Rashid,Namakkal,2026-10-29
+CUST150,Shami,Chennai,2026-10-30
